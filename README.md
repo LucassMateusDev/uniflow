@@ -95,7 +95,9 @@ For a complete usage example, see the [`example/`](example/) folder.
 
 ## Architecture
 
-![UniFlow Architecture Diagram](assets/images/architecture_diagram.jpg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LucassMateusDev/uniflow/refs/heads/main/assets/images/architecture_diagram.jpg" alt="Logo" width="300"/>
+</div>
 
 - **State**: Immutable data for your UI
 - **Event**: User or system actions
