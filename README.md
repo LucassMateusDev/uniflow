@@ -96,7 +96,7 @@ For a complete usage example, see the [`example/`](example/) folder.
 ## Architecture
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LucassMateusDev/uniflow/refs/heads/main/assets/images/architecture_diagram.jpg" alt="Logo" width="300"/>
+  <img src="https://raw.githubusercontent.com/LucassMateusDev/uniflow/refs/heads/main/assets/images/architecture_diagram.jpg" alt="Logo" width="500"/>
 </div>
 
 - **State**: Immutable data for your UI
